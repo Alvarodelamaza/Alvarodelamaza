@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
-<h3 align="center">A passionate engineering student developer from Spain</h3>
+<h3 align="center">A passionate engineering student from Spain</h3>
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🔥 My most important project is [CrowdFeel](https://github.com/Alvarodelamaza/crowdfeel)
+
+- 📚 I’m currently learning **Google Cloud**
 
 - 📫 How to reach me **alvarodlmaza@gmail.com**
 
